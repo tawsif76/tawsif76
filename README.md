@@ -9,7 +9,6 @@
   </a>
 
   <p align="center">
-    <a href="https://tawsif76.github.io/"><img src="https://img.shields.io/badge/Portfolio-tawsif76.github.io-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:sydul.tawsif@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
@@ -82,7 +81,6 @@
 | 🛡️ [**AgentGate**](https://github.com/tawsif76/AgentGate) | Intelligent gateway & agent framework for LLM-driven interactions and task workflows. | `Python` `AI / Agents` |
 | 🌐 [**TCP-Cubic-Link-Failure**](https://github.com/tawsif76/TCP-Cubic-Link-Failure) | In-depth simulation and analysis of TCP Cubic behavior under unexpected link failures. | `C++` `Networking` |
 | 🔍 [**Custom-CS-Tracer**](https://github.com/tawsif76/Custom-CS-Tracer) | Custom content store packet tracer and routing instrumentation for NDN/network stacks. | `C++` `NDN` |
-| 🌐 [**Personal Portfolio**](https://github.com/tawsif76/tawsif76.github.io) | Clean, responsive personal website showcasing research, projects, and blogs. | `HTML` `CSS` `JS` |
 
 ---
 
