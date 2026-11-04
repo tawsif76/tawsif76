@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=Mohammed%20Sydul%20Hasan%20Tawsif&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CUET%20CSE%20Graduate%20%C2%B7%20Networking%20%26%20Distributed%20Systems%20%C2%B7%20AI%20Researcher&descSize=15&descAlignY=58&descAlign=50" width="100%" alt="Mohammed Sydul Hasan Tawsif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,24&height=200&section=header&text=Mohammed%20Sydul%20Hasan%20Tawsif&fontSize=38&fontAlignY=38&desc=CUET%20CSE%20Graduate%20-%20Networking%20and%20Distributed%20Systems%20-%20AI%20Researcher&descSize=14&descAlignY=62&descAlign=50" width="100%" alt="Mohammed Sydul Hasan Tawsif" />
 
 <!-- Typing SVG -->
 <a href="https://tawsif76.github.io/">
@@ -11,10 +11,10 @@
 <br/>
 
 <!-- Badges -->
-<a href="https://tawsif76.github.io/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=1A1B27&labelColor=1A1B27" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/sydul-hasan-tawsif-16037a307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn"/></a>
-<a href="mailto:sydul.tawsif@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=1A1B27&labelColor=1A1B27" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=tawsif76&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS&labelColor=1A1B27" alt="Profile views"/>
+<a href="https://tawsif76.github.io/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sydul-hasan-tawsif-16037a307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sydul.tawsif@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=tawsif76&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -54,11 +54,6 @@
   </tr>
 </table>
 
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tawsif76&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true&area_color=7AA2F7&hide_border=true&radius=10" width="98%" alt="Contribution activity" />
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=tawsif76&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 <br/>
