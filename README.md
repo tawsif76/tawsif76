@@ -1,75 +1,77 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,24&height=200&section=header&text=Mohammed%20Sydul%20Hasan%20Tawsif&fontSize=38&fontAlignY=38&desc=CUET%20CSE%20Graduate%20-%20Networking%20and%20Distributed%20Systems%20-%20AI%20Researcher&descSize=14&descAlignY=62&descAlign=50" width="100%" alt="Mohammed Sydul Hasan Tawsif" />
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=Mohammed%20Sydul%20Hasan%20Tawsif&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CUET%20CSE%20Graduate%20%C2%B7%20Networking%20%26%20Distributed%20Systems%20%C2%B7%20AI%20Researcher&descSize=15&descAlignY=58&descAlign=50" width="100%" alt="Mohammed Sydul Hasan Tawsif" />
 
-  <!-- Typing SVG -->
-  <a href="https://tawsif76.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Computer+Networking+%26+NDN+Research;Distributed+Security+%26+Network+Simulation;Exploring+Small+Language+Models+(SLMs);Competitive+Programmer" alt="Typing SVG" />
-  </a>
+<!-- Typing SVG -->
+<a href="https://tawsif76.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Computer+Networking+%26+NDN+Research;Distributed+Security+%26+Network+Simulation;Exploring+Small+Language+Models+(SLMs);Competitive+Programmer" alt="Typing SVG" />
+</a>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sydul-hasan-tawsif-16037a307/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:sydul.tawsif@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+<br/>
 
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **B.Sc. in Computer Science & Engineering** from **Chittagong University of Engineering and Technology (CUET)**.
-- 🌐 Interested in **LLMs**, **Agentic Systems**, **Computer Networks**, **Named Data Networking (NDN)**, and **Distributed Security**.
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-#### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,latex" alt="Languages" />
-</p>
-
-#### Systems, AI & Networking
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,linux,ubuntu,git,github" alt="Tools & Systems" />
-</p>
-
-#### Web & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode" alt="Web & Env" />
-</p>
+<!-- Badges -->
+<a href="https://tawsif76.github.io/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=1A1B27&labelColor=1A1B27" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sydul-hasan-tawsif-16037a307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn"/></a>
+<a href="mailto:sydul.tawsif@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=1A1B27&labelColor=1A1B27" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=tawsif76&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS&labelColor=1A1B27" alt="Profile views"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2&section=header" width="100%" />
 
-### 📊 GitHub Activity & Analytics
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+  🎓 B.Sc. in <b>Computer Science &amp; Engineering</b> from <b>CUET</b><br/>
+  🌐 Interested in <b>LLMs</b> · <b>Agentic Systems</b> · <b>Computer Networks</b> · <b>NDN</b> · <b>Distributed Security</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2&section=header" width="100%" />
+
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="./profile/stats.svg" width="410" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawsif76&theme=tokyonight&hide_border=true" width="410" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="./profile/top-langs.svg" width="420" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,bash,latex,pytorch,linux,ubuntu&theme=dark&perline=8" alt="Languages and systems" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,vscode&theme=dark&perline=6" alt="Web and tools" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2&section=header" width="100%" />
+
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,24&height=100&section=footer" width="100%"/>
+<table border="0">
+  <tr>
+    <td><img src="./profile/stats.svg" width="410" alt="GitHub Stats" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=tawsif76&theme=tokyonight&hide_border=true&background=1A1B27" width="410" alt="GitHub Streak" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="./profile/top-langs.svg" width="420" alt="Top Languages" /></td>
+  </tr>
+</table>
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tawsif76&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true&area_color=7AA2F7&hide_border=true&radius=10" width="98%" alt="Contribution activity" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=tawsif76&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+<br/>
+
+<!-- Snake animation (generated by .github/workflows/snake.yml) -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawsif76/tawsif76/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tawsif76/tawsif76/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tawsif76/tawsif76/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=110&section=footer" width="100%"/>
 </div>
