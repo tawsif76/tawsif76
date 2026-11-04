@@ -20,11 +20,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Sc. in Computer Science & Engineering** from **Chittagong University of Engineering and Technology (CUET)**.
-- 🌐 Deeply passionate about **Computer Networks**, **Named Data Networking (NDN)**, and **Distributed Security**.
-- 🤖 Actively exploring and experimenting with **Small Language Models (SLMs)** and AI agent orchestration (e.g. *AgentGate*).
-- ⚙️ Love low-level network trace debugging, transport protocols (TCP Cubic, congestion control), and systems programming in **C++** & **Python**.
-- 💡 Regular problem solver on **Codeforces** & algorithmic platforms.
-
+- 🌐 Interested in **LLMs**, **Agentic Systems**, **Computer Networks**, **Named Data Networking (NDN)**, and **Distributed Security**.
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -38,7 +34,7 @@
 
 #### Systems, AI & Networking
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,linux,ubuntu,docker,git,github" alt="Tools & Systems" />
+  <img src="https://skillicons.dev/icons?i=pytorch,linux,ubuntu,git,github" alt="Tools & Systems" />
 </p>
 
 #### Web & Environment
@@ -71,16 +67,6 @@
   </table>
 
 </div>
-
----
-
-### 🚀 Highlighted Projects
-
-| Project | Description | Tech Stack |
-|:---|:---|:---:|
-| 🛡️ [**AgentGate**](https://github.com/tawsif76/AgentGate) | Intelligent gateway & agent framework for LLM-driven interactions and task workflows. | `Python` `AI / Agents` |
-| 🌐 [**TCP-Cubic-Link-Failure**](https://github.com/tawsif76/TCP-Cubic-Link-Failure) | In-depth simulation and analysis of TCP Cubic behavior under unexpected link failures. | `C++` `Networking` |
-| 🔍 [**Custom-CS-Tracer**](https://github.com/tawsif76/Custom-CS-Tracer) | Custom content store packet tracer and routing instrumentation for NDN/network stacks. | `C++` `NDN` |
 
 ---
 
