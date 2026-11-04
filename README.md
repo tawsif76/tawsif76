@@ -5,11 +5,11 @@
 
   <!-- Typing SVG -->
   <a href="https://tawsif76.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Computer+Networking+%26+NDN+Research;Distributed+Security+%26+Network+Simulation;Exploring+Small+Language+Models+(SLMs);Competitive+Programmer+%26+Open-Source+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Computer+Networking+%26+NDN+Research;Distributed+Security+%26+Network+Simulation;Exploring+Small+Language+Models+(SLMs);Competitive+Programmer+%26" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="www.linkedin.com/in/sydul-hasan-tawsif-16037a307"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:sydul.tawsif@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
