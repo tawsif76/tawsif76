@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://tawsif76.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Computer+Networking+%26+NDN+Research;Distributed+Security+%26+Network+Simulation;Exploring+Small+Language+Models+(SLMs);Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Exploring+LLMs+Agentic+System;Computer+Networking+%26+NDN+Research;Distributed+Security+%26+Network+Simulation;Competitive+Programmer" alt="Typing SVG" />
 </a>
 
 <br/>
