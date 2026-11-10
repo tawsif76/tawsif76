@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,24&height=200&section=header&text=Mohammed%20Sydul%20Hasan%20Tawsif&fontSize=38&fontAlignY=38&desc=CUET%20CSE%20Graduate%20-%20Networking%20and%20Distributed%20Systems%20-%20AI%20Researcher&descSize=14&descAlignY=62&descAlign=50" width="100%" alt="Mohammed Sydul Hasan Tawsif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,24&height=200&section=header&text=Mohammed%20Sydul%20Hasan%20Tawsif&fontSize=38&fontAlignY=40" width="100%" alt="Mohammed Sydul Hasan Tawsif" />
 
 <!-- Typing SVG -->
 <a href="https://tawsif76.github.io/">
